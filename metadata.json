@@ -1,0 +1,6 @@
+{
+  "name": "Calcus",
+  "description": "Advanced mobile math application with AI problem solver, step-by-step assistant, formulas, graphing, assessment quizzes, and history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
